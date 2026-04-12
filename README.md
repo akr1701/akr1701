@@ -10,7 +10,7 @@
 ## 🧑‍💻 About Me  
 - 💻 Passionate Software Developer with strong problem-solving skills  
 - 🚀 Building real-world full-stack applications  
-- 🌐 Building and exploring applications using MERN stack  
+- 🌐 Working with MERN stack & backend systems  
 - 📊 Strong foundation in Data Analytics (Python, SQL, Visualization)  
 - 🎯 Goal: To become a skilled Full-Stack Developer  
 
@@ -29,42 +29,53 @@
 ## 🚀 Projects  
 
 ### 🔹 Data Analysis Web App (Full-Stack) ⭐  
-- Designed and developed a full-stack web application with REST APIs for dataset processing and visualization  
-- Implemented backend services for data cleaning, analysis, and chart generation  
-- Built dynamic and responsive UI for better user interaction  
-- Tech: React.js, Node.js, Python, SQL  
+- Designed and developed a full-stack web application for dataset analysis and visualization  
+- Built REST APIs for handling file uploads, data processing, and analytics  
+- Implemented data cleaning, transformation, and chart generation using Python  
+- Developed interactive and responsive UI for better user experience  
+- Integrated frontend with backend for seamless data flow  
 
-🔗 Live: https://your-app-link  
-📂 Code: https://github.com/yourusername/project-name  
+🔗 Live: (Add your deployed link)  
+📂 Code: https://github.com/akr1701  
 
 ---
 
 ### 🔹 Student Management System  
-- Developed a system to manage student data with admin control  
-- Implemented CRUD operations (Search, Update, Delete)  
-- Tech: Python, MongoDB  
+- Developed a backend-driven application to manage student records efficiently  
+- Implemented CRUD operations (Create, Read, Update, Delete)  
+- Designed role-based access (Admin & Student panel)  
+- Integrated MongoDB for data storage and retrieval  
+- Focused on data handling and backend logic implementation  
+
+📂 Code: https://github.com/akr1701  
 
 ---
 
 ### 🔹 Cricket Score Prediction App  
-- Built a prediction system using data analysis techniques  
-- Focused on real-time insights and prediction accuracy  
-- Tech: Python  
+- Built a prediction system using data analysis and machine learning concepts  
+- Processed historical IPL data for score prediction  
+- Implemented logic for real-time match scenario estimation  
+- Focused on accuracy and performance optimization  
+
+📂 Code: https://github.com/akr1701  
 
 ---
 
 ### 🔹 Amazon Sales Dashboard  
-- Developed an interactive dashboard to analyze business performance  
-- Improved insights using data visualization techniques  
-- Tech: Power BI, Excel  
+- Developed an interactive dashboard to analyze sales performance  
+- Used data visualization techniques to identify trends and patterns  
+- Improved business insights through data-driven analysis  
+- Reduced manual reporting efforts using automation  
+
+📂 Code: https://github.com/akr1701  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=akr1701&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akr1701&theme=tokyonight" />
 </p>
 
 ---
@@ -76,35 +87,27 @@
 - Built and integrated REST APIs for backend services  
 - Worked with databases for efficient data handling  
 - Improved application performance and fixed bugs  
-- Collaborated in a team environment using Git/GitHub  
+- Collaborated using Git/GitHub in team environment  
 
 ---
 
 ### 💻 Data Analyst Intern – PW Skills  
 - Analyzed datasets using Python (Pandas, NumPy) and SQL  
 - Built dashboards and visualizations using Power BI  
-- Performed data cleaning and preprocessing for accurate insights  
-- Automated reporting processes to improve efficiency  
+- Performed data cleaning and preprocessing  
+- Automated reporting processes  
 
 ---
 
 ### 🎓 NATS Trainee – MIT Muzaffarpur  
-- Gained hands-on experience in software development and programming  
-- Worked with databases (MySQL) and backend logic  
-- Practiced debugging and writing optimized code  
+- Worked on programming fundamentals and backend logic  
+- Gained experience with MySQL and debugging techniques  
 
 ---
 
 ## 🎓 Education  
 - 🎓 B.Tech in Computer Science (2023)  
 - Darbhanga College of Engineering  
-
----
-
-## 📜 Certifications  
-- Python Programming – Cisco  
-- C/C++ – E & ICT Academy IIT Kanpur  
-- Soft Skills – NPTEL  
 
 ---
 
@@ -119,4 +122,4 @@
 
 ---
 
-⭐ *Open to Software Developer opportunities*
+⭐ Open to Software Developer opportunities
