@@ -67,7 +67,16 @@
 
 ---
 
-## 💼 Experience  
+## 💼 Experience
+
+### 💻 Software Developer – Arubi Technologies, Bangalore  
+- Designed and developed scalable web applications  
+- Built and integrated REST APIs for backend services  
+- Worked with databases for efficient data handling  
+- Improved application performance and fixed bugs  
+- Collaborated in a team environment using Git/GitHub  
+
+---
 - 💻 Data Analyst Intern – PW Skills  
 - 🎓 NATS Trainee – MIT Muzaffarpur  
 
