@@ -29,14 +29,16 @@
 ## 🚀 Projects  
 
 ### 🔹 Data Analysis Web App (Full-Stack) ⭐  
-- Designed and developed a full-stack web application for dataset analysis and visualization  
-- Built REST APIs for handling file uploads, data processing, and analytics  
-- Implemented data cleaning, transformation, and chart generation using Python  
-- Developed interactive and responsive UI for better user experience  
-- Integrated frontend with backend for seamless data flow  
+- Designed and developed a full-stack data analysis platform for processing and visualizing datasets  
+- Built REST APIs for file upload, data preprocessing, and analytics operations  
+- Implemented backend services using Python for data cleaning, transformation, and insight generation  
+- Developed dynamic and responsive frontend with interactive charts and dashboards  
+- Integrated end-to-end system connecting frontend, backend, and database for seamless data flow  
 
-🔗 Live: (Add your deployed link)  
-📂 Code: https://github.com/akr1701  
+🌐 Live Demo: https://data-analysis-web-app-delta.vercel.app  
+📘 API Docs (Swagger): https://data-analysis-backend-hz2b.onrender.com/docs  
+🔧 Backend API: https://data-analysis-backend-hz2b.onrender.com  
+📂 GitHub Repo: https://github.com/akr1701/data-analysis-web-app  
 
 ---
 
