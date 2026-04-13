@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ankit Kumar  
-### 💻 Software Developer | Full-Stack | Python • JavaScript • SQL  
+### 💻 Software Developer | Python • JavaScript • SQL  
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Building+Scalable+Applications;Turning+Ideas+into+Code" />
