@@ -21,7 +21,7 @@
 **Backend:** Node.js, Python  
 **Database:** MongoDB, MySQL  
 **Languages:** Python, JavaScript, SQL  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Tools:** Git, GitHub, VS Code
 
 ---
 
