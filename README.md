@@ -2,17 +2,16 @@
 ### 💻 Software Developer | Full-Stack | Python • JavaScript • SQL  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Full+Stack+Developer;Building+Scalable+Applications;Turning+Ideas+into+Code" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Software+Developer;Building+Scalable+Applications;Turning+Ideas+into+Code" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me  
 - 💻 Passionate Software Developer with strong problem-solving skills  
-- 🚀 Building real-world full-stack applications  
-- 🌐 Working with MERN stack & backend systems  
+- 🚀 Building real-world applications  
 - 📊 Strong foundation in Data Analytics (Python, SQL, Visualization)  
-- 🎯 Goal: To become a skilled Full-Stack Developer  
+- 🎯 Goal: To become a skilled  Developer  
 
 ---
 
